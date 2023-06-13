@@ -1166,7 +1166,7 @@ section .container {
 
 button {
   font-family: "Open Sans";
-  color:#18d26e;
+  color:white;
   background: black;
   border-radius: 20%;
   font-size: 30px;
